@@ -13,4 +13,4 @@
 * Q3 Part b).py: *Python code for this part.* 
 * Q3 Part c) d) e) and f).py: *Python code for this part.* 
 
-If using a mobile browser, you might have to download the PDF's to view them.
+Note: If using a mobile browser, you might have to download the PDF's to view them.
