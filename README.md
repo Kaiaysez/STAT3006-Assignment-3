@@ -3,7 +3,7 @@
 * Bayes classifier and classification loss.
 * Visualizing and classifying time series data.
 * Writing and coding a linear least squares support vector machine (SVM) from scratch .
-* Using the implemented linear least squares SVM to do classification on real and fake bank notes.
+* Using the implemented linear least squares SVM to classify real and fake bank notes.
 
 ### Files
 * Data and Question Sheet: *Folder containing data sets used and the question sheet.*
